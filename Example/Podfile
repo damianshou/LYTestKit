@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LYTestKit_Tests' do
+  pod 'LYTestKit', :path => '../'
+  
+  
+end
